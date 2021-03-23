@@ -1,16 +1,16 @@
-# ![alt text](https://raw.githubusercontent.com/attila5287/img_readme/main/all/ee.png  "node-js-png") Employee Tracker
-
+# ![header-img](https://raw.githubusercontent.com/attila5287/img_readme/main/all/ee.png  "node-js-png") Employee Tracker
 > *Another terminal app **(CLI: Command Line Interface)**  with no front end thus couldn't be deployed*
 
-| ![alt text](https://raw.githubusercontent.com/attila5287/img_readme/main/all/js.png  "node-js-png") | Package/Func | 
+| ![js](https://raw.githubusercontent.com/attila5287/img_readme/main/all/js.png  "node-js-png") | Package/Func | 
 | ------------- |-------------:|
 | [MySQL](https://www.npmjs.com/package/mysql) | to connect to your MySQL database and perform queries.
 | [InquirerJs](https://www.npmjs.com/package/inquirer/v/0.2.3) | to interact with the user via the command-line.
 | [console.table](https://www.npmjs.com/package/console.table) | to print MySQL rows to the console. Not the built-in version but the package which formats the data a little better for our purposes.
 
 
-# SQL Tables:
-Three tables to create and lots of joins for fun!
+# ![sql](https://raw.githubusercontent.com/attila5287/img_readme/main/all/sql-icon.png  "sql") SQL Tables
+
+* Three tables to create and lots of joins for fun!
 
 > 1
 > ---
@@ -39,13 +39,11 @@ Three tables to create and lots of joins for fun!
 | **manager_id** | INT to hold reference to another employee that manager of the current employee. This field may be null if the employee has no manager
 ***
 
-| ![alt text]( https://raw.githubusercontent.com/attila5287/img_readme/main/all/dev.jpg "dev-icon") | About Developer | 
+| ![dev]( https://raw.githubusercontent.com/attila5287/img_readme/main/all/dev.jpg "dev-icon") | About Developer | 
 | -------------   | -------------: |
 | Repos | [github.com/attila5287 ](https://github.com/attila5287/) |
 | Profile | [ attila5287.github.io ](https:///attila5287.github.io/) |
 | Email    |  atiturkoz@hotmail.com | 
----
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 
 > Info
@@ -91,8 +89,13 @@ So that I can organize and plan my business
 
 * Check out [SQL Bolt](https://sqlbolt.com/) for some extra MySQL help.
 
-> Appendices
+> Demo
 
 ![Employee Tracker](Assets/employee-tracker.gif)
 
+> DB Schema
+
 ![Database Schema](Assets/schema.png)
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
