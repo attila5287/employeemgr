@@ -9,11 +9,11 @@
 
 | --- | ---|
 | --- | ---|
-|![html][1] | use pre-designed form elements on the page |
+|![html][1] | none |
 |![css][2] | none |
-|![sql][4] | write on/read from db.json as mock db |
-|![js][3] |set up routes, install express  |
-|![heroku][5] | <https://notetakerhero.herokuapp.com> |
+|![sql][4] | connect and create tables for ee's |
+|![js] [3] | prompt user via terminal then generate tables on console  |
+|![heroku][5] |not applicable |
 
 
 [1]: https://raw.githubusercontent.com/attila5287/express/main/img/html.png
