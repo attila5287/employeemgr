@@ -39,13 +39,6 @@
 | **manager_id** | INT to hold reference to another employee that manager of the current employee. This field may be null if the employee has no manager
 ***
 
-| ![dev]( https://raw.githubusercontent.com/attila5287/img_readme/main/all/dev.jpg "dev-icon") | About Developer | 
-| -------------   | -------------: |
-| Repos | [github.com/attila5287 ](https://github.com/attila5287/) |
-| Profile | [ attila5287.github.io ](https:///attila5287.github.io/) |
-| Email    |  atiturkoz@hotmail.com | 
-
-
 > Info
 
 * Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. 
@@ -96,6 +89,13 @@ So that I can organize and plan my business
 > DB Schema
 
 ![Database Schema](Assets/schema.png)
+
+
+| ![dev]( https://raw.githubusercontent.com/attila5287/img_readme/main/all/dev.jpg "dev-icon") | About Developer | 
+| -------------   | -------------: |
+| Repos | [github.com/attila5287 ](https://github.com/attila5287/) |
+| Profile | [ attila5287.github.io ](https:///attila5287.github.io/) |
+| Email    |  atiturkoz@hotmail.com | 
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
