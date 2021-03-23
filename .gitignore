@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+Master.1/index.js
+Master.1/package-lock.json
+Master.1/package.json
+Master.1/db/connection.js
+Master.1/db/index.js
+Master.1/db/schema.sql
+Master.1/db/seed.sql
