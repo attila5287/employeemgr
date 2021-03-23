@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
 pids
-*.pid
+*.pids
 *.seed
 *.pid.lock
 
@@ -122,3 +122,20 @@ OOP_html_gen/lib/siliconvalley.js
 OOP_html_gen/lib/team_update.js
 OOP_html_gen/lib/theme/darkly/bootstrap.css
 OOP_html_gen/theme/darkly/bootstrap.css
+LessonPlan/01-Day_Intro-MySQL/12.1-LESSON-PLAN.md
+LessonPlan/01-Day_Intro-MySQL/PRECLASS-DRILL.md
+LessonPlan/01-Day_Intro-MySQL/Images/Confirmation.png
+LessonPlan/01-Day_Intro-MySQL/Images/Highlighting.png
+LessonPlan/01-Day_Intro-MySQL/Images/New_Connection.png
+LessonPlan/01-Day_Intro-MySQL/Images/safe-mode.png
+LessonPlan/01-Day_Intro-MySQL/Images/Schemas.png
+LessonPlan/01-Day_Intro-MySQL/Images/SQL_Bar.png
+LessonPlan/01-Day_Intro-MySQL/Images/Table_View.png
+LessonPlan/02-Day_MySQL-Node/12.2-LESSON-PLAN.md
+LessonPlan/02-Day_MySQL-Node/PRECLASS-DRILL.md
+LessonPlan/02-Day_MySQL-Node/Images/Playlist_Data.png
+LessonPlan/02-Day_MySQL-Node/Images/SQL_Connection.png
+LessonPlan/02-Day_MySQL-Node/Images/SQL_Data.png
+LessonPlan/03-Day_Big-Data-MySQL/12.3-LESSON-PLAN.md
+LessonPlan/03-Day_Big-Data-MySQL/PRECLASS-DRILL.md
+LessonPlan/03-Day_Big-Data-MySQL/Images/Top5000.png
