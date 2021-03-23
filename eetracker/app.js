@@ -1,3 +1,3 @@
-console.log('\nee tracker');
+console.log('\n >> ee tracker');
 
 

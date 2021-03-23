@@ -1,6 +1,6 @@
 # ![alt text](https://raw.githubusercontent.com/attila5287/img_readme/main/all/ee.png  "node-js-png") Employee Tracker
-> *Another terminal app **(CLI: Command Line Interface)**  with no front end thus couldn't be deployed*
 
+> *Another terminal app **(CLI: Command Line Interface)**  with no front end thus couldn't be deployed*
 
 | ![alt text](https://raw.githubusercontent.com/attila5287/img_readme/main/all/js.png  "node-js-png") | Package/Func | 
 | ------------- |-------------:|
@@ -10,6 +10,7 @@
 
 
 # SQL Tables:
+Three tables to create and lots of joins for fun!
 
 > 1
 > ---
@@ -17,7 +18,6 @@
 |---|---|
   **id** | INT PRIMARY KEY
   **name** | VARCHAR(30) to hold department name
-|---|---|
 
 > 2
 > ---
@@ -48,14 +48,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 
+> Info
 
-![Employee Tracker](Assets/employee-tracker.gif)
-
-# Unit 12 MySQL Homework: Employee Tracker
-
-Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
-
-![Database Schema](Assets/schema.png)
+* Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. 
  
 |**PRE**|---|
 |---|---|
@@ -79,23 +74,25 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 [0]: https://raw.githubusercontent.com/attila5287/img_readme/main/all/checkbox0.png
 [1]: https://raw.githubusercontent.com/attila5287/img_readme/main/all/checkbox1.png
 
-
+> User Demand
 ```
 As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
 ```
-
-
-* You may wish to have a separate file containing functions for performing specific SQL queries you'll need to use. Could a constructor function or a class be helpful for organizing these?
-
-* You will need to perform a variety of SQL JOINS to complete this assignment, and it's recommended you review the week's activities if you need a refresher on this.
-
 > Hints
+* Have a separate file containing functions for performing specific SQL queries 
+* Use constructor function or a class for organizing the code
+* Perform a variety of SQL JOINS to complete this assignment.
+
 
 * You may wish to include a `seed.sql` file to pre-populate your database. This will make development of individual features much easier.
 
 
 * Check out [SQL Bolt](https://sqlbolt.com/) for some extra MySQL help.
 
+> Appendices
 
+![Employee Tracker](Assets/employee-tracker.gif)
+
+![Database Schema](Assets/schema.png)
