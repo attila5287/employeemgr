@@ -1,10 +1,6 @@
 `Attila's Checklist`
 =======
 
-
-* Fortunately there are other ways in which MySQL developers save their code for just such a reason! They use "schema.sql" files to save their database/table creation codes and "seeds.sql" files to save those statements they use to insert data into their tables. All they have to do in order to create copies of their databases, therefore, is copy the code contained within these files, paste it into MySQL Workbench, and then run the code.
-
-
 |---|Database|
 |---|---|
 |![][1]|mySql workbench conn. |
