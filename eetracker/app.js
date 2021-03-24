@@ -5,14 +5,8 @@ const questions = require('./lib/questions');
 
 let connection = mysql.createConnection({
 	host: "localhost",
-
-	// Your port;
 	port: 3306,
-
-	// Your username
 	user: "root",
-
-	// Your password
 	password: "1234",
 	database: "employees",
 });
