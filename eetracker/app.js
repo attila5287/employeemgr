@@ -34,7 +34,7 @@ async function init() {
     // console.log('group.group :>> ', group.group);
     
   } catch (error) {
-    console.log(error);
+      console.log(error);
   }
   
 }

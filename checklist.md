@@ -1,9 +1,10 @@
 |---|---|
 |---|---|
-|![][0]|app listens at 5000 |
-|![][1]|prompt user with inquirer |
-|![][0]| |
-|![][0]| |
+|![][1]|db init local |
+|![][0]|create tables |
+|![][0]|seed demo employees |
+|![][1]|prompt user/collect answers |
+|![][0]|two-d graphics |
 |![][0]| |
 |![][0]| |
 
