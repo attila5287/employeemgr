@@ -14,12 +14,13 @@ let connection = mysql.createConnection({
 
 	// Your password
 	password: "1234",
-	database: "ee",
+	database: "employees",
 });
 
 connection.connect(function (err) {
 	if (err) throw err;
   console.log('connected');
+  init();
 });
 
 // console.log('questions :>> ', questions);
