@@ -1,6 +1,7 @@
 `Attila's Checklist`
 =======
 
+
 |---|Database|
 |---|---|
 |![][1]|mySql workbench conn. |
@@ -11,13 +12,11 @@
 
 |---|User Interaction|
 |---|---|
+|![][1]|questions: Choose Action |
+|![][1]|Choose Action Group |
+|![][0]|Convert answer to SQL command  |
 |![][0]|logo ASCII art |
-|![][1]|prompt user |
-|![][0]|collect answers |
 
-|---|List|
-|---|---|
-|![][0]|task |
 
 [0]: https://raw.githubusercontent.com/attila5287/img_readme/main/all/checkbox0.png
 [1]: https://raw.githubusercontent.com/attila5287/img_readme/main/all/checkbox1.png
@@ -29,3 +28,6 @@
 [99]: https://raw.githubusercontent.com/attila5287/employeemgr/main/Assets/reverse_eng.JPG
 
 
+
+- [ ] - task todo
+- [x] - task done
