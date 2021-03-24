@@ -3,8 +3,8 @@
 |![][1]|db init local |
 |![][0]|create tables |
 |![][0]|seed demo employees |
+|![][0]|logo graphics ascii |
 |![][1]|prompt user/collect answers |
-|![][0]|two-d graphics |
 |![][0]| |
 |![][0]| |
 
