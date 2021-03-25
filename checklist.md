@@ -22,12 +22,12 @@
 [1]: https://raw.githubusercontent.com/attila5287/img_readme/main/all/checkbox1.png
 
 
-# DB reverse engineered
+# DB models EER diagram
 ![][99]  
 
 [99]: https://raw.githubusercontent.com/attila5287/employeemgr/main/Assets/reverse_eng.JPG
 
 
 
-- [ ] - task todo
-- [x] - task done
+- [ ] - todo
+- [x] - done
