@@ -1,4 +1,4 @@
-console.log('\n >> ee tracker');
+console.log('>> ee tracker');
 const mysql = require('mysql');
 const inquirer = require('inquirer');
 const questions = require('./lib/questions');
@@ -24,9 +24,10 @@ async function init() {
     const action = await inquirer.prompt(questions.action);
     // console.log('action :>> ', action.action);
 
-    const group = await inquirer.prompt(questions.group);
-    // console.log('group.group :>> ', group.group);
-    
+
+
+
+
   } catch (error) {
       console.log(error);
   }

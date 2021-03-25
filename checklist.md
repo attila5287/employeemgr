@@ -12,9 +12,8 @@
 
 |---|User Interaction|
 |---|---|
-|![][1]|questions: Choose Action |
-|![][1]|Choose Action Group |
-|![][0]|Convert answer to SQL command  |
+|![][1]|questions: answer/action pairs |
+|![][1]|actions: action/function pairs |
 |![][0]|logo ASCII art |
 
 
